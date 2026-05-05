@@ -1,0 +1,6 @@
+results/*.jtl
+results/*.log
+reports/
+*.jmx.bak
+Thumbs.db
+desktop.ini
